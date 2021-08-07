@@ -1,0 +1,33 @@
+body{
+    margin : 0;
+    padding: 0;
+}
+
+.nav-bar{
+    display : flex;
+    margin: 0;
+    padding : 0;
+    background-color: red;
+    height : 80px;
+}
+
+.container2{
+    margin: 25px 30%;
+    font-size: 20px;
+}
+
+.input{
+    width: 500px;
+    border: solid black 2px;
+    height : 30px;
+}
+
+.box{
+    height: 100px;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 2px 4px 4px 8px rgb(0, 0, 0, 0.2);
+}
+#user{
+    margin-left:100px;
+}
