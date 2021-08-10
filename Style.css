@@ -23,11 +23,9 @@ body{
 }
 
 .box{
-    height: 100px;
-    width: 200px;
-    margin-left: 200px;
-    box-shadow: 2px 4px 4px 8px rgb(0, 0, 0, 0.2);
+   
+    margin-left: 100px;
 }
 #user{
-    margin-left:100px;
+    margin-left:200px;
 }
